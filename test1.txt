@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is 8C75-754D
-
- Directory of C:\Users\91882\Desktop\projects
-
-19-03-2023  18:47    <DIR>          .
-19-03-2023  18:34    <DIR>          ..
-19-03-2023  18:47                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  834,502,107,136 bytes free
+change:
